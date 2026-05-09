@@ -1,4 +1,7 @@
 /* ─── VARIABLES ─── */
+body{
+  background:red;
+}
 :root {
   --cream: #FAF7F2;
   --warm-white: #FFFDF9;
